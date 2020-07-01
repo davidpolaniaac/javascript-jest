@@ -12,5 +12,10 @@ describe('validate element exists', () => {
     test('check the size of an array', () => {
         expect(arrayFruits()).toHaveLength(6);
     });
+});
 
+describe('validate that a color exists', () => {
+    test('Contains a blue', () => {
+        expect(arrayColors()).toContain('blue');
+    });
 });
