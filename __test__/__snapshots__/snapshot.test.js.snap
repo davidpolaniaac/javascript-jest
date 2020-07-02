@@ -9,3 +9,11 @@ Object {
   "status": "Alive",
 }
 `;
+
+exports[`snapshot snapshot exceptions 1`] = `
+Object {
+  "createAt": Any<Date>,
+  "id": Any<Number>,
+  "name": "David",
+}
+`;
