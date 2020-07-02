@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot snapshot 1`] = `
+Object {
+  "gender": "Male",
+  "id": 1,
+  "name": undefined,
+  "species": "Human",
+  "status": "Alive",
+}
+`;
